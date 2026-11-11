@@ -5,7 +5,8 @@ Status: ENTWURF / NICHT FINAL FREIGEGEBEN (11.11.2026).
 - [x] Name und ladungsfähige Anschrift vom Betreiber erhalten.
 - [x] Öffentliche E-Mail-Adresse eingerichtet: dinamicwallpaper@outlook.com; Konto und geöffnetes Postfach am 11.11.2026 bestätigt.
 - [x] Versand/Empfang der Support-E-Mail laut Betreiber erfolgreich getestet (11.11.2026).
-- [ ] Betreiberstatus, gegebenenfalls Vertretung, Register, Umsatzsteuer-/Wirtschafts-ID, Beruf/Zulassung prüfen; nur zutreffende Angaben eintragen.
+- [x] Betreiber bestätigt: Dino Borogovac bietet die App im eigenen Namen an; keine Gesellschaftsform erfunden.
+- [ ] Etwaige Register-/Umsatzsteuer-/Wirtschafts-ID und besondere Zulassungsangaben auf Anwendbarkeit prüfen; aus „eigener Name“ folgt nicht automatisch, dass keine vorhanden sind.
 - [ ] Tatsächlich ausgelieferten iOS-Build sowie alle SDKs auf Werbung, Tracking, Diagnostik, Auth, Käufe und sonstige Datenerhebungen prüfen.
 - [x] Aktive Interaktions-, Bildlink- und Rankingfunktionen sowie Tabellen/Views und Protokollfeldnamen lesend geprüft.
 - [ ] Tatsächlich ausgelieferten Build mit diesen Abläufen abgleichen; übrige Dienste, Exporte und Weitergaben vollständig prüfen.
