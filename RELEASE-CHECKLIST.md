@@ -4,10 +4,12 @@ Status: ENTWURF / NICHT FINAL FREIGEGEBEN (11.11.2026).
 
 - [x] Name und ladungsfähige Anschrift vom Betreiber erhalten.
 - [x] Öffentliche E-Mail-Adresse eingerichtet: dinamicwallpaper@outlook.com; Konto und geöffnetes Postfach am 11.11.2026 bestätigt.
-- [ ] Versand und Empfang der Support-E-Mail durch tatsächlichen Nachrichtenaustausch testen.
+- [x] Versand/Empfang der Support-E-Mail laut Betreiber erfolgreich getestet (11.11.2026).
 - [ ] Betreiberstatus, gegebenenfalls Vertretung, Register, Umsatzsteuer-/Wirtschafts-ID, Beruf/Zulassung prüfen; nur zutreffende Angaben eintragen.
 - [ ] Tatsächlich ausgelieferten iOS-Build sowie alle SDKs auf Werbung, Tracking, Diagnostik, Auth, Käufe und sonstige Datenerhebungen prüfen.
-- [ ] Live-Datenfluss und wallpaper-engagement prüfen: empfangene Felder, Tabellen, Statistikzwecke, IP-/Fehlerlogs, Server-Zeitstempel und Weitergaben.
+- [x] Aktive Interaktions-, Bildlink- und Rankingfunktionen sowie Tabellen/Views und Protokollfeldnamen lesend geprüft.
+- [ ] Tatsächlich ausgelieferten Build mit diesen Abläufen abgleichen; übrige Dienste, Exporte und Weitergaben vollständig prüfen.
+- [x] Supabase-DPA im Organisationskonto als automatisch einbezogen bestätigt; Cloudflare-DPA in Self-Service-Bedingungen nachgewiesen.
 - [ ] Rechtsgrundlage für jede Verarbeitung einschließlich lokaler Kennung und Analyse bestimmen; gegebenenfalls Einwilligungsmechanismus und Widerspruch umsetzen.
 - [ ] Vertragspartner und Rollen von Supabase, Cloudflare und GitHub Pages sowie Outlook.com/Microsoft klären. AV-Verträge, Regionen, Unterauftragnehmer und Drittlandgarantien prüfen.
 - [ ] Speicherdauer/Kriterien für Installation, Interaktionen, Favoriten, Logs, Cache, Support und Backups festlegen und technische Umsetzung prüfen.
@@ -19,7 +21,7 @@ Status: ENTWURF / NICHT FINAL FREIGEGEBEN (11.11.2026).
 
 ## Befundgrenze
 
-Geprüft: EngagementService, FavoritesStore, WallpaperImageLoader, WallpaperDetailView, WallpaperRepository, SettingsView sowie technische Projektdokumentation. installation_id ist lokale UUID; Favoritenänderungen und erfolgreiche Fotos-Speicherungen lösen Ereignisse an Supabase aus. Unbestätigte Ereignisse bleiben in UserDefaults. Bildabruf über signierte URL, lokaler Cache; R2 als Bildspeicher in Code/Projektdokumentation. Keine Live-Konfiguration oder vollständige Backend-/SDK-Prüfung erfolgt.
+Geprüft: EngagementService, FavoritesStore, WallpaperImageLoader, WallpaperDetailView, WallpaperRepository, SettingsView sowie technische Projektdokumentation. installation_id ist lokale UUID; Favoritenänderungen und erfolgreiche Fotos-Speicherungen lösen Ereignisse an Supabase aus. Unbestätigte Ereignisse bleiben in UserDefaults. Bildabruf über signierte URL, lokaler Cache; R2 als Bildspeicher in Code/Projektdokumentation. Aktive Supabase-Funktionen für Interaktionen, Bildlinks und Ranking, zugehörige Tabellen/Views, Protokollfeldnamen und R2-Einstellungen zusätzlich lesend geprüft. Keine Daten- oder App-Änderungen. Vollständiger SDK-/Vertrags-/Release-Audit steht aus. Favoritenzähler ohne Installationszuordnung ist nur ein beschlossenes Zielkonzept und derzeit nicht umgesetzt.
 
 ## Quellen zur Abschlussprüfung
 
