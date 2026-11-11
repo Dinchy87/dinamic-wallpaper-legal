@@ -3,12 +3,13 @@
 Status: ENTWURF / NICHT FINAL FREIGEGEBEN (11.11.2026).
 
 - [x] Name und ladungsfähige Anschrift vom Betreiber erhalten.
-- [ ] Eigene öffentliche E-Mail-Adresse für Support und Datenschutz einrichten und testen.
+- [x] Öffentliche E-Mail-Adresse eingerichtet: dinamicwallpaper@outlook.com; Konto und geöffnetes Postfach am 11.11.2026 bestätigt.
+- [ ] Versand und Empfang der Support-E-Mail durch tatsächlichen Nachrichtenaustausch testen.
 - [ ] Betreiberstatus, gegebenenfalls Vertretung, Register, Umsatzsteuer-/Wirtschafts-ID, Beruf/Zulassung prüfen; nur zutreffende Angaben eintragen.
 - [ ] Tatsächlich ausgelieferten iOS-Build sowie alle SDKs auf Werbung, Tracking, Diagnostik, Auth, Käufe und sonstige Datenerhebungen prüfen.
 - [ ] Live-Datenfluss und wallpaper-engagement prüfen: empfangene Felder, Tabellen, Statistikzwecke, IP-/Fehlerlogs, Server-Zeitstempel und Weitergaben.
 - [ ] Rechtsgrundlage für jede Verarbeitung einschließlich lokaler Kennung und Analyse bestimmen; gegebenenfalls Einwilligungsmechanismus und Widerspruch umsetzen.
-- [ ] Vertragspartner und Rollen von Supabase, Cloudflare und GitHub Pages sowie später Outlook klären. AV-Verträge, Regionen, Unterauftragnehmer und Drittlandgarantien prüfen.
+- [ ] Vertragspartner und Rollen von Supabase, Cloudflare und GitHub Pages sowie Outlook.com/Microsoft klären. AV-Verträge, Regionen, Unterauftragnehmer und Drittlandgarantien prüfen.
 - [ ] Speicherdauer/Kriterien für Installation, Interaktionen, Favoriten, Logs, Cache, Support und Backups festlegen und technische Umsetzung prüfen.
 - [ ] Löschung und Auskunft anhand installation_id sicher ermöglichen und testen; keine Deinstallations-Löschzusage.
 - [ ] Zuständige Aufsichtsbehörde und gegebenenfalls Datenschutzbeauftragten bestimmen; Art.-13-Angaben zu Bereitstellungspflicht, Folgen und automatisierten Entscheidungen vervollständigen.
