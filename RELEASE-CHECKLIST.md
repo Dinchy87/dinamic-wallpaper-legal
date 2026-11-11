@@ -16,7 +16,10 @@ Status: ENTWURF / NICHT FINAL FREIGEGEBEN (11.11.2026).
 - [ ] Speicherdauer/Kriterien für Installation, Interaktionen, Favoriten, Logs, Cache, Support und Backups festlegen und technische Umsetzung prüfen.
 - [ ] Löschung und Auskunft anhand installation_id sicher ermöglichen und testen; keine Deinstallations-Löschzusage.
 - [ ] Zuständige Aufsichtsbehörde und gegebenenfalls Datenschutzbeauftragten bestimmen; Art.-13-Angaben zu Bereitstellungspflicht, Folgen und automatisierten Entscheidungen vervollständigen.
-- [ ] Nutzungs-/Bildrechte, Quellen und Lizenzumfang klären; gegebenenfalls Verbraucher- und Kaufbedingungen ergänzen.
+- [x] Betreiber bestätigt: bisherige Wallpaper mit KI-Unterstützung in ChatGPT erstellt; andere Anbieter nur geplant.
+- [x] Gewünschter Nutzungsumfang festgelegt: privat als Hintergrundbild; keine kommerzielle Verwertung, kein Weiterverkauf und keine Weiterveröffentlichung als eigene Wallpaper-Sammlung.
+- [ ] Erzeugungsnachweise, Referenzrechte und bei Erstellung geltende Anbieterbedingungen je Bestand prüfen; keine pauschalen ausschließlichen Urheberrechte behaupten.
+- [ ] Einbeziehung der endgültigen Nutzungsbedingungen in das App-Angebot und gegebenenfalls Verbraucher-/Kaufbedingungen klären.
 - [ ] Endgültige Texte und App-Store-Datenschutzangaben mit dem tatsächlich eingereichten Build abgleichen.
 - [ ] Erst danach Entwurfsbanner/noindex/robots bewusst ändern und finale Freigabe dokumentieren.
 
